@@ -1,6 +1,6 @@
-# PyTorch_Speaker_Verification
+# Oneflow_Speaker_Verification
 
-PyTorch implementation of speech embedding net and loss described here: https://arxiv.org/pdf/1710.10467.pdf.
+oneflow implementation of speech embedding net and loss described here: https://arxiv.org/pdf/1710.10467.pdf.
 
 The TIMIT speech corpus was used to train the model, found here: https://catalog.ldc.upenn.edu/LDC93S1,
 or here, https://github.com/philipperemy/timit
