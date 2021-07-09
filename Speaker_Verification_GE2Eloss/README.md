@@ -53,6 +53,6 @@ Only TI-SV is implemented.
 ```
 EER with oneflow: 0.0460
 EER with pytorch: 0.0578 
-Note : despite this code claim the EER 0.0377 , I can not reproduce the [result](https://github.com/HarryVolek/PyTorch_Speaker_Verification/issues/76)
+Note : despite this code claim the EER 0.0377 , I can not reproduce the \[result\]\(https://github.com/HarryVolek/PyTorch_Speaker_Verification/issues/76\)
 ```
 
